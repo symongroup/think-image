@@ -12,7 +12,7 @@
 
 ## 安装
 
-> composer require woxiaoyao81/think-image
+> composer require symongroup/think-image
 
 ## 使用
 
